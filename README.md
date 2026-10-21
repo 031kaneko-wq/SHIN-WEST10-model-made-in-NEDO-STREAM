@@ -5,8 +5,7 @@
 ・Modified-WEST10_model_data.zip：シミュレーションに必要なデータ一式<br>
 ・WEST10拡張モデルの公開説明資料_SHIN系統_v202610.pdf：モデルのご利用に関するお願い，データセットに関する説明<br><br>
 
-◆：モデルのご利用にあたっては，下記のリンクより利用者向けアンケートへの回答をお願いします。<br>
-　　アンケートはこちら(https://docs.google.com/forms/d/1pDCLCpUScidwve5RuqBcKb-fmNkdsDkDFUJG5uhdiA8/edit)<br>
+◆：モデルのご利用にあたっては，[こちら](https://docs.google.com/forms/d/1pDCLCpUScidwve5RuqBcKb-fmNkdsDkDFUJG5uhdiA8/edit)から利用者向けアンケートへの回答をお願いします。<br>
 ◆：公開データを無断で第三者へ配布しないようにお願いいたします。<br>
 ◆：ご不明点などお問合せ：github上の”GitHub Discussions”にてお問い合わせください。<br>
 　　利用にあたってご意見・フィードバックや公開モデルの使用感を踏まえ，<br>
